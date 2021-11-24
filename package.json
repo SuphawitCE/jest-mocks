@@ -1,0 +1,19 @@
+{
+  "name": "understanding-jest-mocks",
+  "version": "1.0.0",
+  "description": "understand-jest-mocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "27.2.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "7.16.4",
+    "babel-jest": "27.3.1"
+  }
+}
